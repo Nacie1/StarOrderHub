@@ -1,8 +1,8 @@
 [
-    {
-        "name": "测试Mod",
-        "version": "1.0",
-        "download": "",
-        "target": "Mods"
-    }
+  {
+    "Game":"星露谷物语",
+    "Name":"测试Mod",
+    "Description":"测试用Mod",
+    "Url":"你的zip下载地址"
+  }
 ]

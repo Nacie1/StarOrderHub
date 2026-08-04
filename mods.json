@@ -3,6 +3,12 @@
     "Game":"星露谷物语",
     "Name":"Tractor Mod",
     "Description":"拖拉机Mod测试",
-    "Url":"https://github.com/Nacie1/StarOrderHub/raw/refs/heads/main/Tractor%20Mod%204.24.4-1401-4-24-4-1773543639.zip"
+    "Url":"https://github.com/Nacie1/StarOrderHub/releases/download/v1.1/Tractor.Mod.4.24.4-1401-4-24-4-1773543639.zip"
+  }，
+  {
+    "Game":"星露谷物语",
+    "Name":"SMAPI",
+    "Description":"SMAPI测试Mod",
+    "Url":"https://github.com/Nacie1/StarOrderHub/releases/download/v1.0/SMAPI.4.5.2-2400-4-5-2-1773515243.zip"
   }
 ]
